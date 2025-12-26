@@ -10,4 +10,5 @@ Shape Drawer — это образовательное JavaFX-приложени
 Фреймворк GUI: JavaFX 17+
 
 
-<img width="292" height="293" alt="image" src="https://github.com/user-attachments/assets/36a87ce9-f42f-499c-8be1-bd38edad5651" />
+<img width="882" height="635" alt="image" src="https://github.com/user-attachments/assets/d6ddcd35-f62c-4de9-9539-6ba18a8c3c80" />
+
